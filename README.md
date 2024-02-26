@@ -32,9 +32,13 @@ The following packages are required to be downloaded beforehead:
 
 `
 -numpy
+
 -pandas
+
 -matplotlib
+
 -geopandas
+
 -shapely
 `
 
