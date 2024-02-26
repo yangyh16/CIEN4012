@@ -26,8 +26,25 @@ Note that during the installation process, you may be asked to select certain co
 
 Virtual environment is a great tool to separate packages from projects and thus to avoid a mess. For example, you can use Python's virtual environment `virtualenv` (tutorial: https://docs.python.org/3/tutorial/venv.html) or `conda` (installation: https://conda.io/projects/conda/en/latest/user-guide/install/index.html; start guide: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html).
 
+**Package requirement**
+
+The following packages are required to be downloaded beforehead:
+
+`
+-numpy
+-pandas
+-matplotlib
+-geopandas
+-shapely
+`
+
 
 ## Lab 1
 Hudson Yards is a newly built business center in NYC attracting numerous people for diverse activities. In Lab 1, we will aggregate taxi flows to Hudson yards and investigate potential correlated factors. After going through the tutorial, we will get some basic skills in urban analytics - data analysis, spatial mapping, data visualization, etc. Have fun!
 
 ![hudson_yards](https://github.com/yangyh16/CIEN4012/assets/160519828/0143ad43-8d18-4ad4-a7e3-50bfa8041c70)
+
+**Notice**
+To run this tutorial, all the files in this GitHub page have to be downloaded. Besides, the taxi data is downloaded from [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). Please change the corresponding file name if you download a different day or taxi type.
+
+Once all data is downloaded, open and try to run `Lab1.ipynb`.
