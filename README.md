@@ -30,7 +30,6 @@ Virtual environment is a great tool to separate packages from projects and thus 
 
 The following packages are required to be downloaded beforehead:
 
-`
 -numpy
 
 -pandas
@@ -40,7 +39,6 @@ The following packages are required to be downloaded beforehead:
 -geopandas
 
 -shapely
-`
 
 
 ## Lab 1
