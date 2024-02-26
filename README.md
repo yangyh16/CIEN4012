@@ -30,15 +30,15 @@ Virtual environment is a great tool to separate packages from projects and thus 
 
 The following packages are required to be downloaded beforehead:
 
-- numpy
+- `numpy`
 
-- pandas
+- `pandas`
 
-- matplotlib
+- `matplotlib`
 
-- geopandas
+- `geopandas`
 
-- shapely
+- `shapely`
 
 
 ## Lab 1
